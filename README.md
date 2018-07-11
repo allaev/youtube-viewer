@@ -4,6 +4,7 @@ YouTube viewer made with React.
 
 - React
 - JSX
+- Bootstrap
 - youtube-api-search
 - Lodash
 - Node.js
