@@ -11,7 +11,11 @@ YouTube viewer made with React.
 - YouTube API
 
 ### Getting Started
-
+Add your Youtube Google API key to ```src/index.js:```
+```
+const API_KEY = ''; //Put your API key here
+```
+Run the app:
 ```
 > npm install
 > npm start
