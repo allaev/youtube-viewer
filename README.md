@@ -1,23 +1,15 @@
-# ReduxSimpleStarter
+# youtube-viewer ![CI status](https://img.shields.io/badge/style-flat-green.svg?longCache=true&style=flat) ![CI status](https://img.shields.io/badge/top%20language-Javascript-yellow.svg)
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+YouTube viewer made with React.
+
+- React
+- JSX
+- youtube-api-search
+- Lodash
+- Node.js
+- YouTube API
 
 ### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
