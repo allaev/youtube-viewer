@@ -2,16 +2,16 @@
 
 YouTube viewer made with React.
 
-- React
-- JSX
-- Bootstrap
-- youtube-api-search
-- Lodash
-- Node.js
-- YouTube API
+- [React](https://github.com/facebook/react)
+- [Bootstrap](https://github.com/twbs/bootstrap)
+- [youtube-api-search](https://www.npmjs.com/package/youtube-api-search)
+- [Lodash](https://github.com/lodash/lodash)
+- [Node.js](https://github.com/nodejs/node)
+- [YouTube API](https://developers.google.com/youtube/v3/)
 
 ### Getting Started
-Add your Youtube Google API key to ```src/index.js:```
+Add your [Youtube Google API key](https://console.cloud.google.com/apis/library/youtube.googleapis.com) to ```src/index.js:```
+
 ```
 const API_KEY = ''; //Put your API key here
 ```
